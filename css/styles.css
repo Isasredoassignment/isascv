@@ -13,9 +13,8 @@ body {
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
-.resume-experience {
+.resume-experiences {
 	font-family:  italic;
-	text-align: center;
 	color: #3c2a94;
 	background-color: #ffffff;
 
