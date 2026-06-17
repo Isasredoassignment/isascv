@@ -13,6 +13,13 @@ body {
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
+.resume-experience {
+	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #3c2a94;
+	background-color: #f8f8fc;
+
+}
+
 .resume-header {
     background-color: #e0f0ff;
 }
